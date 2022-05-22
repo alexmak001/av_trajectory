@@ -1,1 +1,2 @@
-# av_trajectory_cse151b
+# av_trajectory
+Autonomous vehicle trajectory prediction with sequence to sequence deep learning.
